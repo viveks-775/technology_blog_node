@@ -4,7 +4,7 @@
 
 
 module.exports = {
-    url: "mongodb+srv://vivekshinde775:guOa9Rs6GFC0MLIQ@cluster0blog.vyt1wnu.mongodb.net/?retryWrites=true/blog_db"
+    url: "mongodb+srv://vivekshinde775:guOa9Rs6GFC0MLIQ@cluster0blog.vyt1wnu.mongodb.net/?retryWrites=true&w=majority"
   };
 
 
